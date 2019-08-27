@@ -1,4 +1,6 @@
-[![Build Status](https://amirali.visualstudio.com/SpaceGameWeb/_apis/build/status/aliamir-hub.mslearn-tailspin-spacegame-web?branchName=master)](https://amirali.visualstudio.com/SpaceGameWeb/_build/latest?definitionId=9&branchName=master)
+[![Build Status](https://amirali.visualstudio.com/Space%20Game%20-%20Web%20-%20SonarCloud/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://amirali.visualstudio.com/Space%20Game%20-%20Web%20-%20SonarCloud/_build/latest?definitionId=11&branchName=master)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-7420&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-7420)
 
 # Contributing
 
